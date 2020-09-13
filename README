@@ -1,0 +1,1 @@
+This is just a simple survey program. In order to buiild it with dependencies in the jar included run "mvn clean compile assembly:single" and then run the jar as you would.
